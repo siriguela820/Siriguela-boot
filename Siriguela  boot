@@ -1,0 +1,298 @@
+-- 🍊 SIRIGUELA HUB | BOOT + KEY (COM PULOS AUTOMÁTICOS) + SELEÇÃO
+
+pcall(function()
+    game:GetService("CoreGui"):FindFirstChild("SiriguelaBoot"):Destroy()
+    game:GetService("CoreGui"):FindFirstChild("SiriguelaSelect"):Destroy()
+end)
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local Stats = game:GetService("Stats")
+local LP = Players.LocalPlayer
+
+-------------------------------------------------
+-- CONFIG
+-------------------------------------------------
+local KEY_LIFETIME = 25 * 60 * 60 -- 25 horas
+local SCRIPT_URL = "https://raw.githubusercontent.com/siriguela820/Siriguela-hub-V1/refs/heads/main/SiriguelaHub%20V1"
+
+local KEY_DATA = {
+    { link = "https://pastebin.com/vnKjWTU5", key = "SIRI-A9F3K" },
+    { link = "https://pastebin.com/A5zxPxLn", key = "SIRI-Q2X9L" },
+    { link = "https://pastebin.com/UUvN7mny", key = "SIRI-7MZP1" },
+    { link = "https://pastebin.com/jRFiUEye", key = "SIRI-H8W2D" },
+    { link = "https://pastebin.com/9RYtD8pz", key = "SIRI-4R6TQ" }
+}
+
+-------------------------------------------------
+-- LAST KEY USAGE
+-------------------------------------------------
+local lastKey = LP:FindFirstChild("LastKeyUsed")
+if not lastKey then
+    lastKey = Instance.new("NumberValue")
+    lastKey.Name = "LastKeyUsed"
+    lastKey.Parent = LP
+end
+
+local function alreadyUsed()
+    return lastKey.Value ~= 0 and (os.time() - lastKey.Value < KEY_LIFETIME)
+end
+
+-------------------------------------------------
+-- FUNÇÃO PARA INICIAR SELEÇÃO DE SCRIPTS
+-------------------------------------------------
+local function openScriptSelection()
+    local SelectGui = Instance.new("ScreenGui",game.CoreGui)
+    SelectGui.Name="SiriguelaSelect"
+    SelectGui.ResetOnSpawn=false
+
+    local SMain=Instance.new("Frame",SelectGui)
+    SMain.Size=UDim2.new(0,360,0,260)
+    SMain.Position=UDim2.new(0.5,-180,0.5,-130)
+    SMain.BackgroundColor3=Color3.fromRGB(0,0,0)
+    SMain.BorderSizePixel=0
+
+    local SStroke=Instance.new("UIStroke",SMain)
+    SStroke.Color=Color3.fromRGB(0,255,0)
+    SStroke.Thickness=1
+
+    local STitle=Instance.new("TextLabel",SMain)
+    STitle.Size=UDim2.new(1,0,0,28)
+    STitle.BackgroundTransparency=1
+    STitle.Text="SCRIPT SELECTION"
+    STitle.Font=Enum.Font.Code
+    STitle.TextSize=14
+    STitle.TextColor3=Color3.fromRGB(0,255,0)
+
+    local Holder=Instance.new("Frame",SMain)
+    Holder.Position=UDim2.new(0,10,0,40)
+    Holder.Size=UDim2.new(1,-20,1,-50)
+    Holder.BackgroundTransparency=1
+
+    local function createButton(text,x,y,callback)
+        local b=Instance.new("TextButton",Holder)
+        b.Size=UDim2.new(0.48,0,0,38)
+        b.Position=UDim2.new(x,0,y,0)
+        b.Text=text
+        b.Font=Enum.Font.Code
+        b.TextSize=12
+        b.TextColor3=Color3.fromRGB(0,255,0)
+        b.BackgroundColor3=Color3.fromRGB(20,20,20)
+        b.BorderSizePixel=0
+
+        if callback then
+            b.MouseButton1Click:Connect(callback)
+        else
+            b.MouseButton1Click:Connect(function()
+                b.Text="COMING SOON"
+            end)
+        end
+    end
+
+    createButton("SIRIGUELA HUB",0,0,function()
+        SelectGui:Destroy()
+        loadstring(game:HttpGet(SCRIPT_URL,true))()
+    end)
+
+    createButton("SCRIPT 2",0.52,0)
+    createButton("SCRIPT 3",0,0.27)
+    createButton("SCRIPT 4",0.52,0.27)
+    createButton("SCRIPT 5",0,0.54)
+    createButton("SCRIPT 6",0.52,0.54)
+    createButton("SCRIPT 7",0,0.81)
+    createButton("SCRIPT 8",0.52,0.81)
+end
+
+-------------------------------------------------
+-- SE O USUÁRIO JÁ USOU KEY → PULA DIRETO
+-------------------------------------------------
+if alreadyUsed() then
+    openScriptSelection()
+    return
+end
+
+-------------------------------------------------
+-- GUI BOOT
+-------------------------------------------------
+local Gui = Instance.new("ScreenGui", game.CoreGui)
+Gui.Name = "SiriguelaBoot"
+Gui.ResetOnSpawn = false
+
+local Main = Instance.new("Frame", Gui)
+Main.Size = UDim2.new(0,420,0,240)
+Main.Position = UDim2.new(0.5,-210,0.5,-120)
+Main.BackgroundColor3 = Color3.fromRGB(0,0,0)
+Main.BorderSizePixel = 0
+
+local Stroke = Instance.new("UIStroke", Main)
+Stroke.Color = Color3.fromRGB(0,255,0)
+Stroke.Thickness = 1
+
+local Title = Instance.new("TextLabel", Main)
+Title.Size = UDim2.new(1,0,0,28)
+Title.BackgroundTransparency = 1
+Title.Text = "SIRIGUELA BOOT"
+Title.Font = Enum.Font.Code
+Title.TextSize = 14
+Title.TextColor3 = Color3.fromRGB(0,255,0)
+
+-------------------------------------------------
+-- CONSOLE
+-------------------------------------------------
+local Console = Instance.new("ScrollingFrame", Main)
+Console.Position = UDim2.new(0,10,0,35)
+Console.Size = UDim2.new(1,-20,1,-105)
+Console.CanvasSize = UDim2.new(0,0,0,0)
+Console.ScrollBarThickness = 3
+Console.BackgroundTransparency = 1
+
+local y = 0
+local function log(txt)
+    local l = Instance.new("TextLabel", Console)
+    l.Position = UDim2.new(0,0,0,y)
+    l.Size = UDim2.new(1,0,0,16)
+    l.BackgroundTransparency = 1
+    l.Font = Enum.Font.Code
+    l.TextSize = 12
+    l.TextXAlignment = Enum.TextXAlignment.Left
+    l.TextColor3 = Color3.fromRGB(0,255,0)
+    l.Text = txt
+    y += 16
+    Console.CanvasSize = UDim2.new(0,0,0,y)
+    Console.CanvasPosition = Vector2.new(0, math.max(0, y-140))
+end
+
+-------------------------------------------------
+-- PROGRESS BAR
+-------------------------------------------------
+local BarBG = Instance.new("Frame", Main)
+BarBG.Position = UDim2.new(0,10,1,-55)
+BarBG.Size = UDim2.new(1,-20,0,12)
+BarBG.BackgroundColor3 = Color3.fromRGB(40,40,40)
+BarBG.BorderSizePixel = 0
+
+local Bar = Instance.new("Frame", BarBG)
+Bar.Size = UDim2.new(0,0,1,0)
+Bar.BackgroundColor3 = Color3.fromRGB(0,255,0)
+Bar.BorderSizePixel = 0
+
+local Percent = Instance.new("TextLabel", Main)
+Percent.Position = UDim2.new(0,10,1,-72)
+Percent.Size = UDim2.new(1,-20,0,16)
+Percent.BackgroundTransparency = 1
+Percent.Font = Enum.Font.Code
+Percent.TextSize = 12
+Percent.TextColor3 = Color3.fromRGB(0,255,0)
+Percent.Text = "0%"
+
+local function progress(p)
+    p = math.clamp(p,0,100)
+    Bar:TweenSize(UDim2.new(p/100,0,1,0),"Out","Linear",0.2,true)
+    Percent.Text = p.."%"
+end
+
+-------------------------------------------------
+-- KEY INPUT
+-------------------------------------------------
+local KeyBox = Instance.new("TextBox", Main)
+KeyBox.Size = UDim2.new(0.52,0,0,24)
+KeyBox.Position = UDim2.new(0.05,0,1,-32)
+KeyBox.BackgroundColor3 = Color3.fromRGB(20,20,20)
+KeyBox.TextColor3 = Color3.fromRGB(0,255,0)
+KeyBox.Font = Enum.Font.Code
+KeyBox.TextSize = 12
+KeyBox.PlaceholderText = "INSERT KEY"
+KeyBox.BorderSizePixel = 0
+
+local Copy = Instance.new("TextButton", Main)
+Copy.Size = UDim2.new(0.2,0,0,24)
+Copy.Position = UDim2.new(0.6,0,1,-32)
+Copy.Text = "COPY LINK"
+Copy.Font = Enum.Font.Code
+Copy.TextSize = 11
+Copy.TextColor3 = Color3.fromRGB(0,255,0)
+Copy.BackgroundColor3 = Color3.fromRGB(20,20,20)
+Copy.BorderSizePixel = 0
+
+local Continue = Instance.new("TextButton", Main)
+Continue.Size = UDim2.new(0.2,0,0,24)
+Continue.Position = UDim2.new(0.82,0,1,-32)
+Continue.Text = "ENTER"
+Continue.Font = Enum.Font.Code
+Continue.TextSize = 11
+Continue.TextColor3 = Color3.fromRGB(0,255,0)
+Continue.BackgroundColor3 = Color3.fromRGB(20,20,20)
+Continue.BorderSizePixel = 0
+
+-------------------------------------------------
+-- FPS
+-------------------------------------------------
+local fps,last = 0,tick()
+RunService.RenderStepped:Connect(function()
+    fps += 1
+    if tick()-last >=1 then
+        _G.FPS=fps
+        fps=0
+        last=tick()
+    end
+end)
+
+-------------------------------------------------
+-- COPY LINK
+-------------------------------------------------
+local expectedKey
+local keyTime
+Copy.MouseButton1Click:Connect(function()
+    local data = KEY_DATA[math.random(#KEY_DATA)]
+    expectedKey = data.key
+    keyTime = os.time()
+    if setclipboard then setclipboard(data.link) end
+    log("[KEY] Link copied")
+    log("[KEY] Expires in "..math.floor(KEY_LIFETIME/3600).." h")
+end)
+
+-------------------------------------------------
+-- VALIDAR KEY
+-------------------------------------------------
+local function isValidKey(input)
+    input = input:gsub("%s+","")
+    if not expectedKey or not keyTime then return false,"NO_LINK" end
+    if os.time()-keyTime>KEY_LIFETIME then return false,"EXPIRED" end
+    if input~=expectedKey then return false,"WRONG" end
+    return true
+end
+
+-------------------------------------------------
+-- ENTER
+-------------------------------------------------
+Continue.MouseButton1Click:Connect(function()
+    local ok,reason = isValidKey(KeyBox.Text)
+    if not ok then
+        log("[ERROR] "..(reason=="EXPIRED" and "Key expired" or "Invalid key"))
+        return
+    end
+
+    -- marca que o jogador já usou a key
+    lastKey.Value = os.time()
+
+    KeyBox.Visible = false
+    Copy.Visible = false
+    Continue.Visible = false
+
+    log("[KEY] Access granted")
+    progress(25)
+
+    log("[INFO] Player: "..LP.Name)
+    progress(50)
+
+    log("[INFO] FPS: "..(_G.FPS or "?"))
+    progress(75)
+
+    local ping=math.floor(Stats.Network.ServerStatsItem["Data Ping"]:GetValue())
+    log("[INFO] Ping: "..ping.." ms")
+    progress(100)
+
+    task.wait(0.5)
+    Gui:Destroy()
+    openScriptSelection()
+end)
