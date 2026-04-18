@@ -1,2 +1,1114 @@
+--[[
+    Siriguela Protected System
+    Copyright © Siriguela Brasil
+    
+    Este script é protegido por direitos autorais.
+    Qualquer tentativa de cópia, redistribuição ou modificação
+    não autorizada é estritamente proibida.
+    
+    Este sistema utiliza múltiplas camadas de criptografia
+    e proteção avançada contra engenharia reversa.
+    
+    A violação desta proteção pode resultar em
+    bloqueio automático e invalidação do script.
+
+    Protected & Encrypted System
+]]
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
 local f = getfenv()[("loa".."dstr".."ing")]
 f(game:HttpGet("https://raw.githubusercontent.com/siriguela820/Siriguela-boot/refs/heads/main/Siriguela%20%20boot", true))()
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()
+ooooo333()
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = math.random(111111,999999)
+local _0x7shsgeye7362626sbdbdydydyeysgsgsvsvs = tostring(math.random())
+local _0x99sgsgsg6363636636363shshshs = {}
+local _0xyehdhdhdhdhshs7373737373 = {}
+
+for i = 1,1500 do
+    _0x99sgsgsg6363636636363shshshs[i] = tostring(math.random(111111111,999999999)).."q"..tostring(math.random(111111111,999999999))
+end
+
+for i = 1,1200 do
+    _0xyehdhdhdhdhshs7373737373[i] = function()
+        return tostring(math.random()).."x"..tostring(math.random())
+    end
+end
+
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd1 = 62626262626
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd2 = "sgsgsgsgsgsgsg"
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd3 = math.random()
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd4 = {}
+local _0x2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd5 = math.random(111111,999999)
+
+for i = 1,2000 do
+    local _0xnoise2q62655253563eydhhdduueeyehegy73uuehrbvdbbffbbbfbd = tostring(math.random(111111111,999999999)).."eydhhdduueeyehegy73"..tostring(math.random(111111111,999999999))
+end
+
+local function _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+    local _0x = {}
+    for i = 1,800 do
+        _0x[i] = math.random(111111111,999999999)
+    end
+    return _0x
+end
+
+local function _0x8yehshshshs636363636363()
+    local _0x = {}
+    for i = 1,900 do
+        _0x[i] = tostring(math.random()).."7373"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xdecoded1 = _0x7362626262sgsgsgsgsgsgsgsgsgsg()
+local _0xdecoded2 = _0x8yehshshshs636363636363()
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."7373"..tostring(math.random())
+    end
+end)
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0x = tostring(math.random()).."2626"..tostring(math.random())
+    end
+end)
+
+local _0xsecurity7362626262 = {}
+
+for i = 1,1000 do
+    _0xsecurity7362626262[i] = math.random(111111111,999999999)
+end
+
+for i = 1,1800 do
+    local _0xgarbage2q62655253563eydhhdduueeyehegy73 = tostring(math.random()).."sgsgsgsg"..tostring(math.random())
+end
+
+local function _0xEncrypt736363636363()
+    local _0x = {}
+    for i = 1,700 do
+        _0x[i] = tostring(math.random()).."encrypt"..tostring(math.random())
+    end
+    return _0x
+end
+
+local _0xencrypted = _0xEncrypt736363636363()
+
+local _0xencA = {}
+for i = 1,1200 do
+    _0xencA[i] = tostring(math.random(111111111,999999999)).."a"..tostring(math.random(111111111,999999999))
+end
+
+local function _0xcryptA()
+    local _ = {}
+    for i = 1,900 do
+        _[i] = string.char(math.random(65,90))..tostring(math.random(111111,999999))
+    end
+    return _
+end
+
+local function _0xcryptB()
+    local _ = {}
+    for i = 1,950 do
+        _[i] = tostring(math.random()).."x"..string.char(math.random(65,122))
+    end
+    return _
+end
+
+local _0xcrypt1 = _0xcryptA()
+local _0xcrypt2 = _0xcryptB()
+
+for i = 1,1400 do
+    local _0xmix = tostring(math.random()).._0xcrypt1[math.random(1,#_0xcrypt1)].._0xcrypt2[math.random(1,#_0xcrypt2)]
+end
+
+spawn(function()
+    while true do
+        task.wait(math.random())
+        local _0xhash = tostring(math.random()).."hash"..tostring(math.random())
+    end
+end)
+
+local function _0xhashGen()
+    local _ = {}
+    for i = 1,800 do
+        _[i] = tostring(math.random(111111111,999999999)).."H"..tostring(math.random(111111111,999999999))
+    end
+    return _
+end
+
+local _0xhash = _0xhashGen()
