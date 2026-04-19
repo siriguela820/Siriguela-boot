@@ -18,7 +18,7 @@ local LP = Players.LocalPlayer
 -------------------------------------------------
 local FIXED_KEY = "SIRI-A9F3K"
 local KEY_LIFETIME = 25 * 60 * 60
-local KEY_LINK = "https://pastebin.com/vnKjWTU5"
+local KEY_LINK = "https://link-center.net/5198683/JTn3JTbNIDCF"
 local SCRIPT_URL = "https://raw.githubusercontent.com/siriguela820/Siriguela-hub-V1/refs/heads/main/SiriguelaHub%20V1"
 
 -------------------------------------------------
