@@ -88,7 +88,15 @@ local function openScriptSelection()
         loadstring(game:HttpGet(SCRIPT_URL,true))()
     end)
 
-    createButton("SCRIPT 2",0.52,0)
+    createButton("SIRIGUELA ADMIN",0.52,0,function()
+    SelectGui.Enabled = false
+    SelectGui:Destroy()
+
+    task.wait()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/siriguela820/Admin/refs/heads/main/Siriguela%20admin%20k", true))()
+end)
+
     createButton("SCRIPT 3",0,0.27)
     createButton("SCRIPT 4",0.52,0.27)
     createButton("SCRIPT 5",0,0.54)
